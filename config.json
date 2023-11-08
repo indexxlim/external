@@ -1,0 +1,6 @@
+{
+    "dict_data": "dict/dictionary_20230725.csv",
+    "whisper_model_size": "large-v2",
+    "device": "cuda:1",  
+    "device_index": 1 
+}

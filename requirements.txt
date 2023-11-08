@@ -1,0 +1,15 @@
+easydict
+faster_whisper
+ffmpeg 
+uvicorn[standard]
+websocket
+numpy
+torch
+fastapi
+pandas
+ffmpeg-python
+locust
+grpcio
+grpcio-tools
+loguru
+
